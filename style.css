@@ -1,0 +1,17 @@
+.head-cnt {
+    width: 100%;
+}
+
+#div-cp {
+    text-align: center;
+    font-size: large;
+    background-color: gray;
+    color: azure;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(209, 209, 209);
+}
